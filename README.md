@@ -7,8 +7,9 @@ Hello! My name is Stefanie. I'm a former HR professional making the switch to co
 - *[LinkedIn](https://www.linkedin.com/in/stefanieriehle/)*
 - *[Seattle SHRM Board of Directors](https://shrm-seattle.site-ym.com/page/Leadership68)*
 
-## Growth Mindset
-Growth Mindset is the idea that one can continuously develop their abilities through persevering beyond failures and setbacks. 
+<dl>
+  <dt>Growth Mindset</dt>
+  <dd>The idea that one can continuously develop their abilities through persevering beyond failures and setbacks.</dd>
 
 > Failure is not the end, it is an opportunity for growth. 
 >                                            - Roger Huba
