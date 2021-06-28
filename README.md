@@ -8,10 +8,8 @@ Hello! My name is Stefanie. I'm a former HR professional making the switch to co
 - *[LinkedIn](https://www.linkedin.com/in/stefanieriehle/)*
 - *[Seattle SHRM Board of Directors](https://shrm-seattle.site-ym.com/page/Leadership68)*
 
-<dl>
-  <dt>Growth Mindset</dt>
-  <dd>The idea that one can continuously develop their abilities through persevering beyond failures and setbacks.</dd>
-</dl>
+## Growth Mindset
+The idea that one can continuously develop their abilities through persevering beyond failures and setbacks.
 
 <div>
   <p align="center">
