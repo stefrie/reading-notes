@@ -29,5 +29,5 @@ When confronted with a challenge that seems overwhelming:
   - Using GitHub Pages
 
 ### Table of Contents
-  - [Reading Class 1](markdown.md)
+  - [Code 102: Class 1](markdown.md)
   
