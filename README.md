@@ -10,6 +10,9 @@ Hello! My name is Stefanie. I'm a former HR professional making the switch to co
 ## Growth Mindset
 Growth Mindset is the idea that one can continuously develop their abilities through persevering beyond failures and setbacks. 
 
+> Failure is not the end, it is an opportunity for growth. 
+>                                            - Roger Huba
+
 ### Three Reminders in Keeping a Growth Mindset
 When confronted with a challenge that seems overwhelming: 
 - Stop, take a deep breath (or three)
