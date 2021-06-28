@@ -1,6 +1,6 @@
 <p align="center" width="100%"> 
 <img width="18%" src="https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg">
-</p>
+
   
 # Stef's Code Fellows Brain Dump
 </p>
