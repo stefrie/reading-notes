@@ -1,5 +1,6 @@
 <p align="center">
    ![headshot](https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg) 
+   <p></p>
    # Stef's Code Fellows Brain Dump
 </p>
 
