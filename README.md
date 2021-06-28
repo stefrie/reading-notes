@@ -23,11 +23,6 @@ When confronted with a challenge that seems overwhelming:
 - Replace negative self-talk with reminders of what is motivating me to succeed
 - Think of one way I can reframe and view the problem from a different perspective
 
-
-## What I've Learned So Far
-  - GitHub Markdown
-  - Using GitHub Pages
-
 ### Table of Contents
   - [Code 102: Class 1](markdown.md)
   
