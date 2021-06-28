@@ -1,6 +1,9 @@
-<p align="center">
-<img src="https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg" alt="Headshot">
 
+<div style="text-align:center"><img src="https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg" alt="headshot"></div> 
+  
+  
+  
+  
 # Stef's Code Fellows Brain Dump
 </p>
 
