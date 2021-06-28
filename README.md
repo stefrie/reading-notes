@@ -1,8 +1,7 @@
-<p align="center" width="100%"> 
-<img width="18%" src="https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg">
-  
+
+![headshot](Headshot.jpg)
+
 # Stef's Code Fellows Brain Dump
-</p>
 
 Hello! My name is Stefanie. I'm a former HR professional making the switch to coding like I should have done over 20 years ago. I live in Seattle part-time with a precocious 5-year old and full-time with many, many plants. Here's some places you can find me on Teh Interwebs:
 - *[GitHub](https://github.com/stefrie)*
