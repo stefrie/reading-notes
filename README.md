@@ -31,4 +31,6 @@ When confronted with a challenge that seems overwhelming:
   - GitHub Markdown
   - Using GitHub Pages
 
-
+### Table of Contents
+  - [Reading Class 1](markdown.ml)
+  
