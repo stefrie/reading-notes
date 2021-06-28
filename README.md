@@ -1,8 +1,6 @@
 # Stef's Code Fellows Brain Dump
 
-Hello! My name is Stefanie. I'm a former HR professional making the switch to coding like I should have done over 20 years ago. I live in Seattle with a precocious 5-year old and many, many plants. 
-
-Here's some places you can find me on the interwebs:
+Hello! My name is Stefanie. I'm a former HR professional making the switch to coding like I should have done over 20 years ago. I live in Seattle with a precocious 5-year old and many, many plants. Here's some places you can find me on the interwebs:
 - *[LinkedIn](https://www.linkedin.com/in/stefanieriehle/)*
 - *[GitHub](https://github.com/stefrie)*
 - *[Seattle SHRM Board of Directors](https://shrm-seattle.site-ym.com/page/Leadership68)*
