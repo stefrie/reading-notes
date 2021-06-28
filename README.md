@@ -1,5 +1,5 @@
 <p align="center" width="100%"> 
-<img width="30%" src="https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg">
+<img width="20%" src="https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg">
 </p>
   
 # Stef's Code Fellows Brain Dump
