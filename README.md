@@ -1,7 +1,7 @@
 <p align="center">
-   ![headshot](https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg) 
+<img src="https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg" alt="Headshot">
 
-   # Stef's Code Fellows Brain Dump
+# Stef's Code Fellows Brain Dump
 </p>
 
 Hello! My name is Stefanie. I'm a former HR professional making the switch to coding like I should have done over 20 years ago. I live in Seattle with a precocious 5-year old and many, many plants. Here's some places you can find me on Teh Interwebs:
