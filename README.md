@@ -27,4 +27,8 @@ When confronted with a challenge that seems overwhelming:
 - Think of one way I can reframe and view the problem from a different perspective
 
 
+## What I've Learned So Far
+  - GitHub Markdown
+  - Using GitHub Pages
+
 
