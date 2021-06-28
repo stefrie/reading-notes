@@ -13,6 +13,7 @@ Hello! My name is Stefanie. I'm a former HR professional making the switch to co
 <dl>
   <dt>Growth Mindset</dt>
   <dd>The idea that one can continuously develop their abilities through persevering beyond failures and setbacks.</dd>
+</dl>
 
 <div>
   <p align="center">
