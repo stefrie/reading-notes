@@ -1,4 +1,4 @@
-![headshot](C:\Users\srieh\OneDrive\Desktop\CodeFellows\102\Headshot.jpg)
+![headshot](https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg)
 
 # Stef's Code Fellows Brain Dump
 
