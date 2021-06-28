@@ -14,8 +14,7 @@ Hello! My name is Stefanie. I'm a former HR professional making the switch to co
   <dd>The idea that one can continuously develop their abilities through persevering beyond failures and setbacks.</dd>
 
 <p align="center">
-> Failure is not the end, it is an opportunity for growth. 
->                                            - Roger Huba
+  <q>Failure is not the end, it is an opportunity for growth. - Roger Huba</q>
 </p>
   
 ### Three Reminders in Keeping a Growth Mindset
