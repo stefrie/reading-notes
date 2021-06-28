@@ -1,5 +1,5 @@
-<p align="center"> 
-<img src="https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg">
+<p align="center" width="100%"> 
+<img width="100%" src="https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg">
 </p>
   
 # Stef's Code Fellows Brain Dump
