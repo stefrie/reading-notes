@@ -1,5 +1,5 @@
 <p align="center">
-   // ![headshot](https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg)
+   ![headshot](https://github.com/stefrie/reading-notes/blob/main/Headshot.jpg)
 </p>
   
 # Stef's Code Fellows Brain Dump
