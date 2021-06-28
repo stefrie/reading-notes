@@ -17,6 +17,7 @@ Hello! My name is Stefanie. I'm a former HR professional making the switch to co
 > Failure is not the end, it is an opportunity for growth. 
 >                                            - Roger Huba
 </p>
+  
 ### Three Reminders in Keeping a Growth Mindset
 When confronted with a challenge that seems overwhelming: 
 - Stop, take a deep breath (or three)
