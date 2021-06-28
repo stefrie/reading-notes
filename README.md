@@ -1,4 +1,4 @@
-# reading-notes
+# Stef's Reading Notes
 
 ## Hello! My name is Stefanie.
 
