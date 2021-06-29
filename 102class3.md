@@ -7,9 +7,9 @@
 
 ### **git commands to copy to local machine:** ###
 1. In GitHub repo, click on green "Code" button and copy URL
-2. In terminal, type "git clone <url>" and hit Enter
-3. In terminal, cd into the new repo
-4. Open VS Code by typing "code ."
+2. In terminal, type `git clone <url>` and hit Enter
+3. In terminal, `cd` into the new repo
+4. Open VS Code by typing `code .`
   
 ACP - Add Commit Push
   
