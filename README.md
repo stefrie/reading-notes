@@ -9,6 +9,7 @@ Hello! My name is Stefanie. I'm a former HR professional making the switch to co
 - *[Seattle SHRM Board of Directors](https://shrm-seattle.site-ym.com/page/Leadership68)*
 
 ### Table of Contents
+  - [Growth Mindset](growth-mindset.md)
   - [Code 102: Class 1](102class1.md)
   - [Code 102: Class 2](102class2.md)
   - [Code 102: Class 3](102class3.md)
