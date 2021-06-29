@@ -1,11 +1,6 @@
-git 
-- Allows us to collaborate
-- Version control
+git: version control, allows us to collaborate on code simultaneously
 
-GitHub
-- Online code storage
-- Allows us to reference all versions
-
+GitHub: online code storage for all versions
 
 **git + GitHub = awesome**
 - All teammates can work on the same files at the same time and not affect each other
