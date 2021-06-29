@@ -1,4 +1,6 @@
-# Text Editors
+# Code 102 | Class 2
+
+## Text Editors
 There are a variety of types of text editors, but the you'll primarily want to find ones that have the following features:
 * code completion
 * highlighting
@@ -7,7 +9,7 @@ There are a variety of types of text editors, but the you'll primarily want to f
 
 I personally also enjoy having a text editor that also includes other features helpful for coding, such as the ability to house multiple tabs, as well as an inline terminal option.
 
-# CLI (Command Line Interface)
+## CLI (Command Line Interface)
 * CLEAR - to clear the screen
 * PWD - Print Working Directory (tells you where you are)
 * LS - list of files within the directory that you’re in
