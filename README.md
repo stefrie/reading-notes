@@ -24,5 +24,6 @@ When confronted with a challenge that seems overwhelming:
 - Think of one way I can reframe and view the problem from a different perspective
 
 ### Table of Contents
-  - [Code 102: Class 1](markdown.md)
+  - [Code 102: Class 1](102class1.md)
+  - [Code 102: Class 2](102class2.md)
   
