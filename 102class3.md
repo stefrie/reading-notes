@@ -15,6 +15,10 @@ ACP - Add Commit Push
   
 ### **git commands to submit pull request:** ###
 1. git add README.md
+   - (for multiple files you can do)
+   - git add readme.md github.md computer.md
+   - or
+   - git add .
 2. git commit -a "Made changes to my readme file"
 3. git push origin main
 
