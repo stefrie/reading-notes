@@ -1,11 +1,11 @@
-## git: version control, allows us to collaborate on code simultaneously
-## GitHub: online code storage for all versions
-## **git + GitHub = awesome**
+#### git: version control, allows us to collaborate on code simultaneously ####
+#### GitHub: online code storage for all versions ####
+## **git + GitHub = awesome** ##
 - All teammates can work on the same files at the same time and not affect each other
 - Keep history of each file over time
 - Work on code locally, merge with other code
 
-### [git tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) ###
+# [Git Tutorial on Udemy](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) #
 
 ### **git commands to copy to local machine:** ###
 1. In GitHub repo, click on green "Code" button and copy URL
