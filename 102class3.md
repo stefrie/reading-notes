@@ -22,4 +22,8 @@ ACP - Add Commit Push
 2. `git commit -a "Made changes to my readme file"`
 3. `git push origin main`
 
+### **to create new files within the readme.md file** ###
+1. touch reading3.md
+
+
 [Back](README.md)
