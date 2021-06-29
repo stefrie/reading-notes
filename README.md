@@ -26,4 +26,4 @@ When confronted with a challenge that seems overwhelming:
 ### Table of Contents
   - [Code 102: Class 1](102class1.md)
   - [Code 102: Class 2](102class2.md)
-  
+  - [Code 102: Class 3](102class3.md)
