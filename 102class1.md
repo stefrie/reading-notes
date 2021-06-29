@@ -6,7 +6,7 @@
 - GitHub Markdown (deprecated HTML not preferred)
    - Headings using #
    - *Italics with one * *
-   - **Bold with two ** **
+   - **Bold with two ****
    - ***Italics AND bold with three ***
    - Blockquotes using >
    - Bullets using - or * or +
