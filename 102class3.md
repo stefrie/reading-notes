@@ -5,6 +5,8 @@
 - Keep history of each file over time
 - Work on code locally, merge with other code
 
+### [git tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) ###
+
 ### **git commands to copy to local machine:** ###
 1. In GitHub repo, click on green "Code" button and copy URL
 2. In terminal, type `git clone <url>` and hit Enter
