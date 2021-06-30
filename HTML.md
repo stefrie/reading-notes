@@ -14,5 +14,10 @@
 
 [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+[Place-Holder](https://place-hold.it/)
+- Use this site to create placeholder boxes for images on your site
+
+Lorem20 - will spit out lorem ipsum of 20 words
+
 
 [Back](README.md)

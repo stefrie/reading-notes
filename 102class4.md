@@ -9,7 +9,17 @@ HyperText Markup Language
 - can do limited styling (styling primarily resides in CSS)
 
 
+## To create website for Class 4 Lab
+1. Create a wireframe for the website you're creating
+2. Create a new repo in GitHub
+3. After creating, go to Pages create site
+4. Clone repo to local machine (grab URL, git clone url)
+5. In terminal, `touch index.html` 
+6. `code .`
 
+To open in browser to view real-time changes, right-click on .html file and click "Open with Live Server"
+
+To pull down
 
 
 [Back](README.md)
