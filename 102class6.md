@@ -1,11 +1,8 @@
-[Content to be added]
+JavaScript
 
-
-
-
-
-
-
+Dynamic Pages
+Demo: Input, Output
+Lab: Plan and Build
 
 
 
