@@ -1,24 +1,12 @@
 # JavaScript
 
 ## Expressions and Operators
-There are a variety of **operators**:
-- Assignment operators - assigns a value to its left operand based on the value of its right operand. *ex. x=y*
-- Comparison operators - compares its operands and returns a logical value based on whether or not it's true. 
-- Arithmetic operators - takes a numerical value as their operands and returns a single numerical value.
-- Bitwise operators
-- Logical operators
-- String operators
-- Conditional (ternary) operator
-- Comma operator
-- Unary operators
-- Relational operators
-
 An **expression** is any valid unit of code that resolves to a value.
 
 ## Functions 
 **Functions** are similar to a procedure or process. It includes:
 - Name of the function
-- List of parameters to the function, enclsed in parentheses and separated by commas
+- List of parameters to the function, enclosed in parentheses and separated by commas
 - JS statements that define the function, enclosed in curly brackets `{...}`
 
 ## Control Flow

@@ -19,6 +19,7 @@ Hello! My name is Stefanie. I'm a former HR professional making the switch to co
   - [Code 102: Class 5 - CSS](102class5.md)
   - [Code 102: Class 6 - JavaScript Variables](102class6.md)
   - [Code 102: Class 7 - JavaScript Functions](102class7.md)
-  - [Code 102: Class 8](102class8.md)
+  - [Code 102: Class 8 - JavaScript Operators and Loops](102class8.md)
   - [Code 102: Class 9](102class9.md)
+    - [Code Fellows Professional Competencies](competencies.md)
   - [Code 102: Class 10](102class10.md)

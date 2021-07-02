@@ -1,4 +1,4 @@
-JavaScript
+# JavaScript
 
 ## Read
 [JS Intro Paragraph](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
