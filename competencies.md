@@ -11,6 +11,7 @@ Demonstrated by keen understanding of business operations and customer needs. Us
 Makes decisions that align work to support the company’s and product’s vision and goals, along with the team KPIs.
 #### Customer Orientation
 Seeks customer interaction opportunities, as a customer advocate, to anticipate and discover their needs. Uses detailed information and data about the customer to deliver high quality results and add value. Views features as part of an integrated customer experience.
+
 ______________________________________
 ## The Growth Mindset Competency
 Demonstrated by commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback.
@@ -29,6 +30,7 @@ Embraces diversity of thought, work style, perspective, and experiences outside 
 Seeks and listens to feedback about their work, and takes appropriate action in response. Open to new ideas, processes, and ways of getting things done. Focuses on positive outcomes while taking responsibility for poor results.
 #### Ambition and Initiative
 Demonstrates personal drive without needing recognition or reward. When there is downtime, finds a productive task. Exhibits a bias for action with a strong will to accomplish task with excellence.
+
 ______________________________________
 ## The Leadership Competency
 Demonstrated by proficiency in influencing others by modeling accountability & integrity, building relationships, and mentoring others.
@@ -51,6 +53,7 @@ Has discipline to manage self-care through diet, exercise, relaxation, and fulfi
 Displays a positive sense of efficacy and readiness to handle stress, competitiveness, workload, instructional or orientation methods, and related associated complexities. States ideas with self-assurance and enthusiasm. Stands up for beliefs and views while preserving respect of others.Willingness to support final team decisions.
 #### Credibility
 Having earned reliability and trustworthiness to obtain collaboration and participation of others to accomplish goals. Consistently doing what you say you are going to do.
+
 ______________________________________
 ## The Craft Competency
 Demonstrated by proficiency in all aspects of their chosen craft, including tools, technologies, and process and methodology.
@@ -63,6 +66,7 @@ Prioritizes and completes assigned tasks according to team's process. Consults w
 Generates new ideas for meeting customer needs by effectively using customer interaction and research. Proactively identifies and manages risks within scope and resolves issues via an established process or with coaching. Develops multiple options for fulfilling customer needs.
 #### Tool Proficiency
 Makes efficient use of internal tools for version control management, log analysis, CI/CD, bug tracking, exception reporting, and debugging tools to diagnose problems and inform decisions.
+
 ______________________________________
 ## The Quality Competency
 Demonstrated by the ability to effectively assess quality of work including that of their own and others, using keen attention to detail. Effectively identifies the root cause of problems with rigor, provides and applies solutions that prevent recurrence.
@@ -71,6 +75,7 @@ Demonstrated by the ability to effectively assess quality of work including that
 The ability to assess and research a problem to identify key issues, inputs, stakeholders, desired outcomes then come to a sensible logical conclusion.
 #### Root Cause Resolution
 Proactively identifies source of problems beyond the surface. involves the right people to analyze the problem, and tracks the chain of events that lead to the failure. Offers and implements appropriate solutions.
+
 ______________________________________
 ## The Communication Competency
 Demonstrated by proficiency in written and verbal communications, active listening, and exchanging ideas/knowledge.
@@ -83,12 +88,14 @@ Ability to comprehend task instructions, bug reports, and emails. Locates and un
 Articulates effectively and confidently. Expresses in a clear and outlined manner how ideas fits into wider scenarios.
 #### Listening
 Has patience to not interrupt, takes turns speaking, pays close attention to what is being shared, and maintains eye contact. Uses listening cues such as nodding to show engagement. Acknowledges concerns and different perspectives of others.
+
 ______________________________________
 ## The Teamwork Competency
 Demonstrated by the commitment to team success by building collaborative relationships and adhering to team goals.
 
 #### Collaboration
 Actively works with others to produce or create something in a friendly and professional manner on behalf of the entire company, beyond own team or self. Seeks to ensure the team understands the business value of every story by sharing knowledge and expertise with other team members. Consistently tries to improve code quality by seeking pair programming opportunities.
+
 ______________________________________
 ## The Results Competency
 Demonstrated by proficiency in planning and prioritizing to overcome obstacles, solve problems, and achieve results on schedule.
