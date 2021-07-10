@@ -7,7 +7,7 @@
 ## Read and Demo
 [Variables](https://www.w3schools.com/js/js_variables.asp)
 You can declare JS variables in three ways:
-- `var` - rarely used, global variable anywhere in your code
+- `var` - rarely used, global variable anywhere in your code (security issues d/t injection code)
 - `let` - variables declared with `let` can be changed, scoped only in the code where you create it
 - `const` - variables declared with `const` cannot be changed, will remain constant throughout the code
 
