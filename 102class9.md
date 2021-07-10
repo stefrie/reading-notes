@@ -39,5 +39,6 @@ Review Syllabi for future classes:
 [401 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/401/)
 
 
+***
 
-[Back](README.md)
+**[Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)**

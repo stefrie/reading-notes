@@ -16,5 +16,6 @@ Check out these great explainer videos, in order. In less than 30 minutes, youâ€
 [How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
 
+***
 
-[Back](README.md)
+**[Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)**

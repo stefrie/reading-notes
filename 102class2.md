@@ -27,4 +27,6 @@ I personally also enjoy having a text editor that also includes other features h
 * MKDIR (folder name) && TOUCH (file name.ext) - to make a folder, then a file within that folder
 * TOUCH (folder name)/(file name.ext) - to create a file in a directory within the current directory
 
-[Back](README.md)
+***
+
+**[Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)**

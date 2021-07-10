@@ -13,4 +13,6 @@ When confronted with a challenge that seems overwhelming:
 - Replace negative self-talk with reminders of what is motivating me to succeed
 - Think of one way I can reframe and view the problem from a different perspective
 
-[Back](README.md)
+***
+
+**[Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)**
