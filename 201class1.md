@@ -1,7 +1,9 @@
 # Code 201 | Class 1
 
+## Introductory HTML and JavaScript
+
 **Reading Assignments *before* Class 1:**
- - From the Duckett HTML book:'
+ - From the Duckett HTML book:
     - Introduction (pp.2-11)
     - HTML Chapter 1: “Structure” (pp.12-39)
     - HTML Chapter 8: “Extra Markup” (p.176-199)
