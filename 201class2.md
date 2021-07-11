@@ -3,8 +3,8 @@
 ## Basics of HTML, CSS, & JavaScript
 
  - From the Duckett HTML book:
-  - Chapter 2: “Text” (pp.40-61)
-  - Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
+    - Chapter 2: “Text” (pp.40-61)
+    - Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 
 - From the Duckett JS book:
   - Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
