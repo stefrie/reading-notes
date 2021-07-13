@@ -29,20 +29,22 @@ Structure similar to Word docs (or Google docs) by using various headings and te
 
 #### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
-asdf
+HTML5 layout and its uses
+Alternatives to the `<div>` element
+Ensuring backwards compatibility of the HTML5 elements
 
 #### HTML Chapter 18: “Process & Design” (pp.452-475)
 
-asdf
+Determine your target audience when designing a website so that you can ensure the content of your site is relevant for your audience.
 
 ### From the Duckett JS book:
 #### Introduction
 
-asdf
+
 
 #### JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
-asdf
+
 
 
 ***
