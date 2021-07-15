@@ -1,15 +1,14 @@
 # Code 201 | Class 4
-
+## HTML Links, CSS Layout, JS Functions
+***
 ### From the Duckett HTML book:
 #### Chapter 4: Ch.4 “Links” (pp.74-93)
-
 - Links are created using the `<a>` element.
 - There is a root folder with child and grandchild folders (depending on how many levels)
 - Relative URLs can be used if you're referencing a folder within the same directory. 
 - Open new windows by using `<target="_blank">` in your `<a>` tag
 
 #### Chapter 15: “Layout” (pp.358-404)
-
 - Positioning Elements using:
     - Normal Flow
     - Relative Positioning
@@ -26,15 +25,14 @@
 #### Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 
 - Functions and Methods
- - Declaring vs. calling a function
- - Getting values out of a function
- - Anonymouse functions and function expressions
- - Variable scope
+    - Declaring vs. calling a function
+    - Getting values out of a function
+    - Anonymouse functions and function expressions
+    - Variable scope
 
 
 
 #### Article: “6 Reasons for Pair Programming”
-
 
 
 ***
