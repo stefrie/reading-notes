@@ -3,6 +3,16 @@
 ***
 ### From the Duckett HTML book:
 #### Chapter 5: “Images” (pp.94-125)
+- To best organize, create a separate folder that will hold all images
+- Can also create subfolders for logos/buttons (interface), product images (product), etc.
+
+To add an image, use the `<img>` tag, and include the two attributes:
+- `src` which tells the browser where to find the image. Can be a relative path if you're retrieving the image from your own site.
+- `alt` which provides a text description of the image 
+
+**Characteristics of an image**
+Height - denotes 
+Width - denotes 
 
 
 #### Chapter 11: “Color” (pp.246-263)
