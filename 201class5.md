@@ -1,8 +1,7 @@
-# Code 201 | Class 5
-## Images, Color, Text
+# Code 201 | Reading 5 - Images, Color, Text
 ***
-### From the Duckett HTML book:
-#### Chapter 5: “Images” (pp.94-125)
+## From the Duckett HTML book:
+### Chapter 5: “Images” (pp.94-125)
 - To best organize, create a separate folder that will hold all images
 - Can also create subfolders for logos/buttons (interface), product images (product), etc.
 
@@ -21,7 +20,7 @@ To add an image, use the `<img>` tag, and include the two attributes:
 The `<figure>` element is a new way to contain images and associate the images with a caption so they're associated with each other.
 ![figure_element](figure_element.JPG)
 
-#### Chapter 11: “Color” (pp.246-263)
+### Chapter 11: “Color” (pp.246-263)
 Three ways to specify color in code:
 1. RGB Values: Example - green is listed as `rgb(0, 255, 0)`
 2. Hex Codes: Example - green is listed as `#00ff00`
@@ -39,7 +38,7 @@ Ensure there is **contrast** so that your text is easy to read on the page
 **HSL** is also new in CSS3 to specify values associated with *hue, saturation, and lightness*
 
 
-#### Chapter 12: “Text” (pp.264-299)
+### Chapter 12: “Text” (pp.264-299)
 **Controlling appearance of text on your page by:**
 1. Directly affecting the text's appearance (font family, font size, **bold**, *italic*, etc.)
 2. Using code to impact the text regardless of the previous point
@@ -73,7 +72,7 @@ Ensure there is **contrast** so that your text is easy to read on the page
 - `:link` or `:visited`  
 - `:hover`, `:active`, or `:focus` 
 
-### Blog Post
+## Blog Post
 [JPEG vs PNG vs GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
 
 *NOTE: The post has a TL;DR you might find handy.*

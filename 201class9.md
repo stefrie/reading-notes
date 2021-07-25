@@ -1,11 +1,10 @@
-# Code 201 | Class 9
-## Forms and JS Events
+# Code 201 | Reading 9 - Forms and JS Events
 ***
-### From the Duckett HTML book:
-#### Chapter 7: “Forms” (p.144-175)
+## From the Duckett HTML book:
+### Chapter 7: “Forms” (p.144-175)
 
 
-#### Chapter 14: “Lists, Tables & Forms” (pp.330-357)
+### Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 **Form Controls**
 - adding text by text input, password input, text area (multi-line)
 - making choices by using radio buttons, checkboxes, or dropdown menus
@@ -16,8 +15,8 @@
 - `<form>` 
 
 
-### From the Duckett JS book:
-#### Chapter 6: “Events” (pp.243-292)
+## From the Duckett JS book:
+### Chapter 6: “Events” (pp.243-292)
 
 
 ***

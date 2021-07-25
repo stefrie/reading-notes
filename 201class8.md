@@ -1,8 +1,7 @@
-# Code 201 | Class 8
-## CSS Layout
+# Code 201 | Reading 8 - CSS Layout
 ***
-### From the Duckett HTML book:
-#### Ch. 15, “Layout” (again; repeat of Class 4 reading)
+## From the Duckett HTML book:
+### Ch. 15, “Layout” (again; repeat of Class 4 reading)
 
 - Positioning Elements using:
     - Normal Flow
