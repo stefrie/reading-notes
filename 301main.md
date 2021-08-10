@@ -20,7 +20,7 @@
 
 ## Pre-Work: Intermediate Software Development
 **Assignments**
-- [Dive into React](https://codefellows.github.io/code-301-guide/curriculum/prework/react) | *[React Notes](301/react.md)*
+- [Dive into React](https://codefellows.github.io/code-301-guide/curriculum/prework/react) / Done! *[React Notes](301/react.md)*
 - [Setup Your Laptop for Code 301](https://codefellows.github.io/setup-guide/code-301)
 - [ES6 Arrow Functions in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/arrow-functions)
 - [ES6 Classes in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/classes)
