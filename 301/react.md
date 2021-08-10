@@ -4,7 +4,7 @@
 
 Watch this [short video](https://www.youtube.com/watch?v=FRjlF74_EZk) about React, then answer the questions below.
 
-![react](react.jpg)
+![reactsnip](reactsnip.jpg)
 
 **What is React?**\
 It is a library (not a framework with helper functions). It has a few functions for creating agnostic user interfaces.
