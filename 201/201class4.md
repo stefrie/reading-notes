@@ -1,3 +1,5 @@
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
+***
 # Code 201 | Reading 4 - HTML Links, CSS Layout, JS Functions
 ***
 ## From the Duckett HTML book:
@@ -39,9 +41,7 @@
         - Sticks the box to the screen, but if you use top: 0px, it will only go to the point you define
 
 - Responsive design
-
 - Fixed width vs. liquid layouts
-
 - Grids
 
 ## From the Duckett JS book:
@@ -54,11 +54,7 @@
     - Anonymouse functions and function expressions
     - Variable scope
 
-
-
 ### Article: “6 Reasons for Pair Programming”
 
-
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)

@@ -1,3 +1,5 @@
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
+***
 # Code 201 | Reading 5 - Images, Color, Text
 ***
 ## From the Duckett HTML book:
@@ -77,7 +79,5 @@ Ensure there is **contrast** so that your text is easy to read on the page
 
 *NOTE: The post has a TL;DR you might find handy.*
 
-
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)

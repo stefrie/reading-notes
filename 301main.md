@@ -18,7 +18,7 @@
 
 
 ## Other Notes
-  - [Dive into React](301\301react.md)
+  - [Dive into React](301/301react.md)
 
 ***
 #### [Home](README.md) | [Code 102](102main.md) | [Code 201](201main.md) | [Code 301](301main.md) | [Code 401](401main.md)

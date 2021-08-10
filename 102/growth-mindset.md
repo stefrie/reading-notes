@@ -1,3 +1,5 @@
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
+***
 ## Growth Mindset
 The idea that one can continuously develop their abilities through persevering beyond failures and setbacks.
 
@@ -14,5 +16,4 @@ When confronted with a challenge that seems overwhelming:
 - Think of one way I can reframe and view the problem from a different perspective
 
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)

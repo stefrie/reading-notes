@@ -1,4 +1,4 @@
-# Code 201 | Reading 1 - Introductory HTML and JavaScript
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
 ***
 ## From the Duckett HTML book:
 ### Introduction (pp.2-11)
@@ -36,7 +36,5 @@ Determine your target audience when designing a website so that you can ensure t
 
 ### JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
-
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)

@@ -1,3 +1,5 @@
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
+***
 # A High Level Overview Of React
 
 Watch this [short video](https://www.youtube.com/watch?v=FRjlF74_EZk) about React, then answer the questions below.
@@ -21,3 +23,6 @@ A component is part of an architecture in an app such as headers, content, and f
 Data only flows *down* one way through a React app. We can also control *where* the data is flowing, so we could pass the data only down to `<Header />` and `<Content />` but not pass it to `<Footer />`. We would use this by using parameters within the functions.
 
 **Every component manages its own:** state, as well as passing it down to its child components.
+
+***
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)

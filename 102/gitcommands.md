@@ -1,3 +1,5 @@
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
+***
 ### **git commands to copy/clone to local machine:** ###
 1. In GitHub repo, click on green "Code" button and copy URL
 2. In terminal, type `git clone <url>` and hit Enter
@@ -14,7 +16,6 @@
    - `git add .`
 2. `git commit -a "Made changes to my readme file"`
 3. `git push origin main`
-
 ### **to create new files within the readme.md file** ###
 1. `touch reading3.md`
 
@@ -23,7 +24,5 @@
 `git command --help`
 `man git-command`
 
-
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)

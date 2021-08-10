@@ -1,3 +1,5 @@
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
+*** 
 # Code 201 | Class 14a - CSS Transforms, Transitions, and Animations
 
 Read the following articles and/or review the following examples on CSS animations:
@@ -11,5 +13,4 @@ Read the following articles and/or review the following examples on CSS animatio
 
 
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)

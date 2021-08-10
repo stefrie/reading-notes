@@ -1,4 +1,4 @@
-#### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
 ***
 # JavaScript
 
@@ -43,4 +43,4 @@ getTime();
 **Refactoring** your code makes the code more efficient, but *does not* change the outcome of the code at all.
 
 ***
-#### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)

@@ -1,4 +1,4 @@
-#### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
 ***
 
 # CSS (Cascading Style Sheets)
@@ -21,4 +21,4 @@ In the above example, the `h1` is the "selector" that chooses the HTML element t
 Within the curly brackets, you can denote the *properties* you wish to change, and the *values* for those properties. 
 
 ***
-#### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
