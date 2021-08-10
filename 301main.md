@@ -1,6 +1,6 @@
 # Code 301 Table of Contents
 
-  - [Reading #1 - ]()
+  - [Reading #1 - Introduction to React and Components](301/301-1.md)
   - [Reading #2 - ]()
   - [Reading #3 - ]()
   - [Reading #4 - ]()
@@ -16,7 +16,7 @@
   - [Reading #14 - ]()
   - [Reading #15 - ]()
 
-## [Things I Want To Know More About]()
+## [Things I Want To Know More About](301/things.md)
 
 ## Other Notes
   - [Dive into React](301/301react.md)
