@@ -1,8 +1,5 @@
 # Code 201 | Class 14a - CSS Transforms, Transitions, and Animations
 
-The following reading is required for psychological safety talk:
-- [What Google Learned From Its Quest to Build the Perfect Team](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
-
 Read the following articles and/or review the following examples on CSS animations:
 - [Read this article on CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
 - [Read this article on CSS Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
