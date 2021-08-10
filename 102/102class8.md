@@ -1,4 +1,3 @@
-***
 #### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
 ***
 # Expressions and Operators
@@ -38,4 +37,3 @@ When a `for` loop executes, the following occurs:
 
 ***
 #### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
-***

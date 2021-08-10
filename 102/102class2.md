@@ -1,4 +1,3 @@
-***
 #### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
 ***
 # Code 102 | Class 2
@@ -32,4 +31,3 @@ I personally also enjoy having a text editor that also includes other features h
 
 ***
 #### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
-***
