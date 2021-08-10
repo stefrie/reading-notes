@@ -1,4 +1,4 @@
-# Code 301 Reading Notes
+# Code 301 Table of Contents
 
   - [Reading #1 - ]()
   - [Reading #2 - ]()
@@ -21,5 +21,4 @@
   - [Dive into React](301\301react.md)
 
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 401](401.md)
+#### [Home](README.md) | [Code 201](201main.md) | [Code 301](301main.md) | [Code 401](401main.md)

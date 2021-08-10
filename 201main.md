@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code 201 Table of Contents
 
   - [Reading #1 - Introductory HTML and JavaScript](201class1.md)
   - [Reading #2 - HTML, CSS Introduction, & Basic JavaScript](201class2.md)
@@ -18,5 +18,4 @@
 
 
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 301](301.md) | [Code 401](401.md)
+#### [Home](README.md) | [Code 201](201main.md) | [Code 301](301main.md) | [Code 401](401main.md)
