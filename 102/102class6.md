@@ -1,3 +1,6 @@
+***
+#### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
+***
 # JavaScript
 
 ## Read
@@ -15,7 +18,6 @@ You can declare JS variables in three ways:
 Check out these great explainer videos, in order. In less than 30 minutes, you’ll gain new insights into how computers are actually working! Watch all 6 videos, and create your reading-notes page based on your top 3 most significant readings.
 [How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
-
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)
+#### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
+***

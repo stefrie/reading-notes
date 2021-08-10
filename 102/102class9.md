@@ -1,3 +1,6 @@
+***
+#### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
+***
 # Career Coaching
 
 ### Be strategic in launching your career by:
@@ -38,7 +41,6 @@ Review Syllabi for future classes:
 [301 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/301/)
 [401 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/401/)
 
-
 ***
-
-#### [Home](README.md) | [Code 102](102.md) | [Code 201](201.md) | [Code 301](301.md) | [Code 401](401.md)
+#### [Home](C:\Users\srieh\CodeFellows\reading-notes\README.md) | [Code 201](C:\Users\srieh\CodeFellows\reading-notes\201main.md) | [Code 301](C:\Users\srieh\CodeFellows\reading-notes\301main.md) | [Code 401](C:\Users\srieh\CodeFellows\reading-notes\401main.md)
+***
