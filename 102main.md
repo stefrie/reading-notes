@@ -1,6 +1,6 @@
 # Code 102 Reading Notes
 
-  - [Class 1 - GitHub Markdown](C:\Users\srieh\CodeFellows\reading-notes\102\102class1.md)
+  - [Class 1 - GitHub Markdown](102\102class1.md)
   - [Class 2 - Text Editors and Command Line](C:\Users\srieh\CodeFellows\reading-notes\102\102class2.md)
   - [Class 3 - GitHub and Git](C:\Users\srieh\CodeFellows\reading-notes\102\102class3.md)
     - [Helpful Git Commands](C:\Users\srieh\CodeFellows\reading-notes\102\gitcommands.md)
