@@ -9,7 +9,7 @@ Watch this [short video](https://www.youtube.com/watch?v=FRjlF74_EZk) about Reac
 **What is React?**\
 It is a library (not a framework with helper functions). It has a few functions for creating agnostic user interfaces.
 
-**React is a User Interface: ____**\ 
+**React is a User Interface: ____**\
 Library. It's agnostic, which means it doesn't care where your user interface will display. It will be used to create interfaces (charts, search fields, websites, widgets, etc.). 
 
 **How do we make a React element a DOM element?**\
