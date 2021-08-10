@@ -1,4 +1,4 @@
-#### [Home](./README.md) | [Code 102](./102main.md) | [Code 201](./201main.md) | [Code 301](./301main.md) | [Code 401](./401main.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
 ***
 # Code 102 | Class 1
 
@@ -18,4 +18,4 @@
 
 
 ***
-#### [Home](./README.md) | [Code 102](./102main.md) | [Code 201](./201main.md) | [Code 301](./301main.md) | [Code 401](./401main.md)
+#### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)

@@ -10,7 +10,7 @@
   - [Class 6 - JavaScript Variables](102/102class6.md)
   - [Class 7 - JavaScript Functions](102/102class7.md)
   - [Class 8 - JavaScript Operators and Loops](102/102class8.md)
-  - [Class 9](102/102class9.md)
+  - [Class 9 - Career Coaching](102/102class9.md)
     - [Code Fellows Professional Competencies](102/competencies.md)
 
 ***
