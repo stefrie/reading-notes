@@ -1,7 +1,7 @@
 # Code 301 Table of Contents
 
-  - [Reading #1 - Introduction to React and Components](301/301-1.md)
-  - [Reading #2 - ]()
+  - [Reading #1 - Introduction to React and Components](301/301_1.md)
+  - [Reading #2 - ](301/301_2.md)
   - [Reading #3 - ]()
   - [Reading #4 - ]()
   - [Reading #5 - ]()
@@ -19,7 +19,7 @@
 ## [Things I Want To Know More About](301/things.md)
 
 ## Other Notes
-  - [Dive into React](301/301react.md)
+  - [Dive into React](301/react.md)
 
 ***
 #### [Home](README.md) | [Code 102](102main.md) | [Code 201](201main.md) | [Code 301](301main.md) | [Code 401](401main.md)
