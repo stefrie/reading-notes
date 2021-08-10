@@ -9,7 +9,7 @@ Hello! My name is Stefanie. I'm a former HR professional making the switch to co
 - *[Seattle SHRM Board of Directors](https://shrm-seattle.site-ym.com/page/Leadership68)*
 
 ## Table of Contents
-  - [Code 102 Notes](102.md)
-  - [Code 201 Notes](201.md)
-  - [Code 301 Notes](301.md)
-  - [Code 401 Notes](401.md)
+  - [Code 102 Notes](102main.md)
+  - [Code 201 Notes](201main.md)
+  - [Code 301 Notes](301main.md)
+  - [Code 401 Notes](401main.md)
