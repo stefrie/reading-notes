@@ -20,10 +20,10 @@
 
 ## Pre-Work: Intermediate Software Development
 **Assignments**
-- [Dive into React](https://codefellows.github.io/code-301-guide/curriculum/prework/react) / Done! *[React Notes](301/react.md)*
-- [Setup Your Laptop for Code 301](https://codefellows.github.io/setup-guide/code-301)
-- [ES6 Arrow Functions in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/arrow-functions)
-- [ES6 Classes in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/classes)
+- [Dive into React](https://codefellows.github.io/code-301-guide/curriculum/prework/react) / **Done!** *[React Notes](301/react.md)*
+- [Setup Your Laptop for Code 301](https://codefellows.github.io/setup-guide/code-301) **Done!**
+- [ES6 Arrow Functions in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/arrow-functions) **Waiting for Code 301 repo to be updated**
+- [ES6 Classes in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/classes) / **Done!** *[ES6 Classes Notes](301/es6-classes.md)*
 - *Read 01 - Introduction to React and Components - see above*
 - [CSS Diner](https://codefellows.github.io/code-301-guide/curriculum/prework/css_diner.html)
 - [Chocolate Pizza](https://codefellows.github.io/code-301-guide/curriculum/prework/chocolate_pizza)
