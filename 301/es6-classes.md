@@ -1,7 +1,7 @@
 #### [Home](../README.md) | [Code 102](../102main.md) | [Code 201](../201main.md) | [Code 301](../301main.md) | [Code 401](../401main.md)
 ***
 # ES6 Classes
-- Watch the [Shred Talk: ES6 Classes](https://youtu.be/9Yc5J3Ap9-4)
+- Watch the [Shred Talk: ES6 Classes](https://youtu.be/9Yc5J3Ap9-4)\
 **Data Modeling** using **JS Constructor Functions and Prototypes** and **ES6 Classes**
 
 #### Example:
