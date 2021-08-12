@@ -17,9 +17,10 @@
   - [Reading #15 - ](301/301_15.md)
 
 ## [Things I Want To Know More About](301/things.md)
-
-## Pre-Work: Intermediate Software Development
+***
+## Code 301 Pre-Work: Intermediate Software Development
 **Assignments**
+### Please Complete
 - [X] [Dive into React](https://codefellows.github.io/code-301-guide/curriculum/prework/react) / ***[React Notes](301/react.md)***
 - [X] [Setup Your Laptop for Code 301](https://codefellows.github.io/setup-guide/code-301) 
 - [ ] [ES6 Arrow Functions in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/arrow-functions) ***Waiting for Code 301 repo to be updated***
@@ -30,13 +31,15 @@
 - [ ] [Portfolio Prep](https://codefellows.github.io/code-301-guide/curriculum/prework/portfolio_prep)
 - [X] [Setup Your Accounts](https://codefellows.github.io/common_curriculum/prep_work/Setup_Your_Accounts)
 - [X] [Setup Your Reading Notes Repo](https://codefellows.github.io/common_curriculum/prep_work/Setup_Readings)
-- [ ] [Status Report](https://codefellows.github.io/common_curriculum/career_coaching/301/status-report)
+- [X] [Status Report](https://codefellows.github.io/common_curriculum/career_coaching/301/status-report)
 - [ ] [Professional Etiquette](https://codefellows.github.io/common_curriculum/career_coaching/301/professional-etiquette)
 - [ ] [Behavioral Interview Questions](https://codefellows.github.io/common_curriculum/career_coaching/301/behavioral-questions)
 - [ ] [Professional Pitch](https://codefellows.github.io/common_curriculum/career_coaching/301/professional-pitch-draft)
-- [ ] [Update Your Resume]()
-- [ ] [Please Read](https://codefellows.github.io/common_curriculum/career_coaching/301/update-your-resume)
-- [ ] Familiarize yourself with the [Career Coaching program](https://codefellows.github.io/common_curriculum/career_coaching), and review the [Code 301 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/301/301-career-coaching-syllabus).
+- [X] [Update Your Resume](https://codefellows.github.io/common_curriculum/career_coaching/301/update-your-resume)
+
+### Please Read
+- [ ] Familiarize yourself with the [Career Coaching program](https://codefellows.github.io/common_curriculum/career_coaching)
+- [ ] Review the [Code 301 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/301/301-career-coaching-syllabus)
 
 ***
 #### [Home](README.md) | [Code 102](102main.md) | [Code 201](201main.md) | [Code 301](301main.md) | [Code 401](401main.md)
