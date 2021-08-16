@@ -15,7 +15,7 @@ Library. It's agnostic, which means it doesn't care where your user interface wi
 **How do we make a React element a DOM element?**\
 We use ReactDOM to render the components in the page.
 
-![component tree](component-tree.JPG)
+![componenttree](component-tree.JPG)
 
 **What is a component?**\
 A component is part of an architecture in an app such as headers, content, and footers that may also have sub-components to comprise the entirety of the application.
