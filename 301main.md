@@ -27,7 +27,7 @@
 - [X] [Setup Your Laptop for Code 301](https://codefellows.github.io/setup-guide/code-301) 
 - [X] [ES6 Arrow Functions in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/arrow-functions)
 - [X] [ES6 Classes in JavaScript](https://codefellows.github.io/code-301-guide/curriculum/prework/classes) / ***[ES6 Classes Notes](301/es6-classes.md)*** and Assignment: ***[Completed lab in Repl](https://replit.com/@stefr/ES6-Classes#vehicles-with-classes.js)***
-- [ ] *Read 01 - Introduction to React and Components - see above*
+- [X] *Read 01 - Introduction to React and Components - see above*
 - [X] [CSS Diner](https://codefellows.github.io/code-301-guide/curriculum/prework/css_diner.html)
 - [X] [Chocolate Pizza](https://codefellows.github.io/code-301-guide/curriculum/prework/chocolate_pizza)
 - [X] [Portfolio Prep](https://codefellows.github.io/code-301-guide/curriculum/prework/portfolio_prep)
