@@ -38,8 +38,8 @@
 - [X] [Update Your Resume](https://codefellows.github.io/common_curriculum/career_coaching/301/update-your-resume)
 
 #### Please Read
-- [ ] Familiarize yourself with the [Career Coaching program](https://codefellows.github.io/common_curriculum/career_coaching)
-- [ ] Review the [Code 301 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/301/301-career-coaching-syllabus)
+- [X] Familiarize yourself with the [Career Coaching program](https://codefellows.github.io/common_curriculum/career_coaching)
+- [X] Review the [Code 301 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/301/301-career-coaching-syllabus)
 
 ***
 #### [Home](README.md) | [Code 102](102main.md) | [Code 201](201main.md) | [Code 301](301main.md) | [Code 401](401main.md)
