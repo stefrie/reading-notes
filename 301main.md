@@ -12,9 +12,10 @@
   - [Reading #8 - APIs](301/301_8.md)
   - [Reading #9 - Functional Programming](301/301_9.md)
   - [Reading #10 - In Memory Storage](301/301_10.md)
-  - [Reading #11 - Authentication](301/301_11.md)
-  - [Reading #12 - Mongo and Mongoose](301/301_12.md)
-  - [Reading #13 - CRUD](301/301_13.md)
+  - [Reading #11 - Mongo and Mongoose](301/301_11.md)
+  - [Reading #12 - CRUD](301/301_12.md)
+  - [Reading #13 - Diversity and Inclusion in the Tech Industry](301/301_13.md)
+  - [Reading #14 - Authentication](301/301_14.md)
 
 ## [Things I Want To Know More About](301/things.md)
 ***
