@@ -10,23 +10,19 @@
 
 1. Read the problem completely twice.
    Test whether or not you can explain the problem to someone else.
-2. Solve the problem manually with 3 sets of sample data.
+2. Solve the problem manually with 3 sets of sample data.\
    Example of reversing string "zebra":
-
--   Write “Zebra” down.
--   Start a new word, and put “a” as the first letter. (Why –> because it is the last letter, we want to start here)
--   Put “r” down as the 2nd letter. (Why –> because it is the next letter backwards from the last letter we copied)
--   Put “b” down as the 3rd letter. (Why –> same as above)
--   Etc.
-
+    - Write “Zebra” down.
+    - Start a new word, and put “a” as the first letter. (Why –> because it is the last letter, we want to start here)
+    - Put “r” down as the 2nd letter. (Why –> because it is the next letter backwards from the last letter we copied)
+    - Put “b” down as the 3rd letter. (Why –> same as above)
+    - Etc.
 3. Optimize the manual steps.
-
--   Write “Zebra” down.
--   Start at the last letter in the word and create a new empty word.
--   Append the current letter to the new word
--   If there is a previous letter, make the previous letter the current letter and start back at 3.
-
-4. Write the manual steps as comments or pseudo-code.
+    - Write “Zebra” down.
+    - Start at the last letter in the word and create a new empty word.
+    - Append the current letter to the new word
+    - If there is a previous letter, make the previous letter the current letter and start back at 3.
+4. Write the manual steps as comments or pseudo-code.\
 
 ```
 // NewWord = ""
@@ -35,7 +31,7 @@
 // Return NewWord
 ```
 
-5. Replace the comments or pseudo-code with real code.
+5. Replace the comments or pseudo-code with real code.\
 
 ```
 String newWord = ""
@@ -89,7 +85,7 @@ Finding the right way to frame the learning process. \
 SUPER MARIO EFFECT: Focusing on the Princess and not the pits, to stick with a task and learn more.\
 SUPER MARIO EFFECT: Shifting the focus from falling into pits to saving the princess, to stick with a task and learn more.
 
-### **Bonus video (that I added myself)! [The Power of Belief](https://youtu.be/pN34FNbOKXc)**
+### **Bonus video (that I added! [The Power of Belief](https://youtu.be/pN34FNbOKXc)**
 
 1. Recognize that the growth mindset is not only beneficial, but is also supported by science. Neuroscience shows that the brain changes and becomes more capable when we work hard to improve ourselves.
 2. Learn and teach others about how to develop our abilities. Learn about deliberate practice and what makes for effective effort. When we understand how to develop our abilities, we strengthen our conviction that we are in charge of them.
