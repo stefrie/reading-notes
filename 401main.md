@@ -25,7 +25,7 @@
 
 ## Code 401 Pre-Work: Intermediate Software Development
 
--   [ ] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/status-report)
+-   [x] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/status-report)
 -   [x] [401 JavaScript Computer Setup](https://codefellows.github.io/setup-guide/code-401-javascript/)
 
 ### Reading and Reference Materials
@@ -39,7 +39,7 @@
 
 #### Watch these videos:
 
--   [x] [What the Heck is the Event Loop Anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+-   [ ] [What the Heck is the Event Loop Anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 -   [x] [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
 
 #### Download/Purchase/Bookmark the following books:
