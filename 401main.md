@@ -7,7 +7,7 @@
 -   [401 Prework Reading Notes - ](401/401-prework)
 -   [Reading #1 - Node Ecosystem, TDD, CI/CD](401/401-1.md)
 -   [Reading #2 - Express](401/401-2.md)
--   [Reading #3 - ](401/401-3.md)
+-   [Reading #3 - Express REST API](401/401-3.md)
 -   [Reading #4 - ](401/401-4.md)
 -   [Reading #5 - ](401/401-5.md)
 -   [Reading #6 - ](401/401-6.md)
