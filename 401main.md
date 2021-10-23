@@ -4,12 +4,12 @@
 
 # Code 401 Table of Contents
 
--   [401 Prework Reading Notes - ](401/401-prework)
+-   [401 Prework Reading Notes](401/401-prework)
 -   [Reading #1 - Node Ecosystem, TDD, CI/CD](401/401-1.md)
 -   [Reading #2 - Express](401/401-2.md)
 -   [Reading #3 - Express REST API](401/401-3.md)
 -   [Reading #4 - Data Modeling](401/401-4.md)
--   [Reading #5 - ](401/401-5.md)
+-   [Reading #5 - "Big O" Notation and Linked Lists](401/401-5.md)
 -   [Reading #6 - ](401/401-6.md)
 -   [Reading #7 - ](401/401-7.md)
 -   [Reading #8 - ](401/401-8.md)
