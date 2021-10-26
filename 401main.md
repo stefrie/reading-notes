@@ -10,7 +10,7 @@
 -   [Reading #3 - Express REST API](401/401-3.md)
 -   [Reading #4 - Data Modeling](401/401-4.md)
 -   [Reading #5 - "Big O" Notation and Linked Lists](401/401-5.md)
--   [Reading #6 - ](401/401-6.md)
+-   [Reading #6 - Authentication](401/401-6.md)
 -   [Reading #7 - ](401/401-7.md)
 -   [Reading #8 - ](401/401-8.md)
 -   [Reading #9 - ](401/401-9.md)
