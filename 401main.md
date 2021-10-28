@@ -23,7 +23,7 @@
 
 ---
 
-## Code 401 Pre-Work: Intermediate Software Development
+## Code 401 Pre-Work: Advanced Software Development
 
 -   [x] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/status-report)
 -   [x] [401 JavaScript Computer Setup](https://codefellows.github.io/setup-guide/code-401-javascript/)
