@@ -39,7 +39,7 @@
 
 #### Watch these videos:
 
--   [ ] [What the Heck is the Event Loop Anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+-   [x] [What the Heck is the Event Loop Anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 -   [x] [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
 
 #### Download/Purchase/Bookmark the following books:
@@ -52,7 +52,7 @@ _We will be referencing them throughout the course._
 
 #### Up your JavaScript Game (Code Challenges):
 
--   [ ] Complete all of the [Code 301 Code Challenges](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/301-code-challenges.html)
+-   [x] Complete all of the [Code 301 Code Challenges](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/301-code-challenges.html)
 -   [ ] [Callbacks](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/callbacks)
 -   [ ] [Promises](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/promises)
 -   [ ] [Async/Await](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/async-await)
