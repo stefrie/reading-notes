@@ -27,6 +27,7 @@
 -   (Project Midterms; No Reading)
 -   [Reading Class 26 - Component Based UI](401/401-26.md)
 -   [Reading Class 27 - `useState()` Hook](401/401-27.md)
+-   [Reading Class 27a - Hash Tables](401/401-27a-HashTables.md)
 -   [Reading Class 28 - Component Lifecycle / `useEffect()` Hook](401/401-28.md)
 -   [Reading Class 29 - Advanced State with Reducers](401/401-29.md)
 -   [Reading Class 30 - Hash Tables](401/401-30.md)
